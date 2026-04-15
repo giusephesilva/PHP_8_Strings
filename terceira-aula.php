@@ -14,7 +14,7 @@ if ($anoNascimento == 1998){ //string numérica
 
 function geraEmail($nome):void{
     
-//exemplo heredoc - aceita interpolação de avriaveis
+//exemplo heredoc - aceita interpolação de variaveis
 $conteudoEmail = <<<FIM
         Testes
         teste
